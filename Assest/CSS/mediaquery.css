@@ -1,0 +1,871 @@
+@media only screen and (max-width:320px) {
+    .ulInHeader {
+        font-size: 10px;
+    }
+
+    li {
+        margin-left: -20px;
+        border-radius: 10px;
+        transition: all ease .5s;
+    }
+
+    li:hover {
+        background-color: ;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    div[class="bgInHeader"] p {
+        font-size: 14px;
+    }
+
+    div[class="bgInHeader"] button {
+        font-size: 14px;
+        position: absolute;
+        bottom: 100px;
+        right: 60px;
+    }
+
+    div[class="bgInHeader"] button:hover {
+        font-size: 15px;
+    }
+
+    .h2InContent {
+        font-size: 16px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    i[class="fa"] {
+        font-size: 24px;
+        margin-right: 3px;
+    }
+
+    .iconBox {
+        width: 70px;
+        height: 60px;
+        text-align: center;
+        margin-left: 60px;
+    }
+
+    input[type="text"] {
+        padding: 5px;
+        width: 200px;
+        display: block;
+        margin: 5px 0px 5px 0px;
+    }
+
+    label[for="Name"] {
+        font-size: 14px;
+    }
+
+    label[for="PhoneNumber"] {
+        font-size: 14px;
+    }
+
+    label[for="Email"] {
+        font-size: 14px;
+    }
+
+    input[type="email"] {
+        padding: 5px;
+        width: 200px;
+        margin-bottom: 10px;
+    }
+
+    textarea {
+        vertical-align: middle;
+        margin-top: 10px;
+        width: 205px;
+    }
+
+    label[for="Message"] {
+        font-size: 14px;
+    }
+
+    input[type="submit"] {
+        margin: 10px 0px 0px 70px;
+        padding: 6px;
+        background-color: white;
+        color: black;
+        box-shadow: 0px 0px 4px 1px black;
+    }
+
+    input[type="submit"]:hover {
+        background-color: rgb(0, 141, 141);
+        color: white;
+        box-shadow: none;
+        border: none;
+        padding: 8px;
+    }
+}
+
+@media only screen and (min-width:321px) {
+    .ulInHeader {
+        font-size: 10px;
+    }
+
+    li {
+        margin-left: -20px;
+        border-radius: 10px;
+        transition: all ease .5s;
+    }
+
+    li:hover {
+        background-color: ;
+    }
+
+    h1 {
+        font-size: 24px;
+    }
+
+    div[class="bgInHeader"] p {
+        font-size: 14px;
+    }
+
+    div[class="bgInHeader"] button {
+        font-size: 14px;
+        position: absolute;
+        bottom: 28%;
+        right: 20%;
+    }
+
+    div[class="bgInHeader"] button:hover {
+        font-size: 15px;
+    }
+
+    .h2InContent {
+        font-size: 16px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    i[class="fa"] {
+        font-size: 24px;
+        margin-right: 3px;
+    }
+
+    .iconBox {
+        width: 70px;
+        height: 60px;
+        text-align: center;
+        margin-left: 25%;
+    }
+
+    input[type="text"] {
+        padding: 5px;
+        width: 98%;
+        display: block;
+        margin: 5px 0px 5px 0px;
+    }
+
+    label[for="Name"] {
+        font-size: 14px;
+    }
+
+    label[for="PhoneNumber"] {
+        font-size: 14px;
+    }
+
+    label[for="Email"] {
+        font-size: 14px;
+    }
+
+    input[type="email"] {
+        padding: 5px;
+        width: 98%;
+        margin-bottom: 10px;
+    }
+
+    textarea {
+        vertical-align: middle;
+        margin-top: 10px;
+        width: 98%;
+    }
+
+    label[for="Message"] {
+        font-size: 14px;
+    }
+
+    input[type="submit"] {
+        margin-top: 10px;
+        margin-left: 40%;
+        padding: 6px;
+        background-color: white;
+        color: black;
+        box-shadow: 0px 0px 4px 1px black;
+    }
+
+    input[type="submit"]:hover {
+        background-color: rgb(0, 141, 141);
+        color: white;
+        box-shadow: none;
+        border: none;
+        padding: 8px;
+    }
+}
+
+@media only screen and (min-width:375px) {
+    .ulInHeader {
+        font-size: 14px;
+    }
+
+    li {
+        margin-left: -20px;
+        border-radius: 10px;
+        transition: all ease .5s;
+    }
+
+    li:hover {
+        background-color: snow;
+    }
+
+    h1 {
+        font-size: 26px;
+    }
+
+    div[class="bgInHeader"] p {
+        font-size: 16px;
+    }
+
+    div[class="bgInHeader"] button {
+        font-size: 16px;
+        position: absolute;
+        bottom: 30%;
+        right: 22%;
+    }
+
+    div[class="bgInHeader"] button:hover {
+        font-size: 17px;
+    }
+
+    .h2InContent {
+        font-size: 16px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    i[class="fa"] {
+        font-size: 24px;
+        margin-right: 3px;
+    }
+
+    .iconBox {
+        width: 70px;
+        height: 60px;
+        text-align: center;
+        margin-left: 30%;
+    }
+
+    input[type="text"] {
+        padding: 5px;
+        width: 90%;
+        display: block;
+        margin: 5px 0px 5px 0px;
+    }
+
+    label[for="Name"] {
+        font-size: 14px;
+    }
+
+    label[for="PhoneNumber"] {
+        font-size: 14px;
+    }
+
+    label[for="Email"] {
+        font-size: 14px;
+    }
+
+    input[type="email"] {
+        padding: 5px;
+        width: 90%;
+        margin-bottom: 10px;
+        display: block;
+    }
+
+    textarea {
+        vertical-align: middle;
+        margin-top: 10px;
+        width: 90%;
+    }
+
+    label[for="Message"] {
+        font-size: 14px;
+    }
+
+    input[type="submit"] {
+        margin-top:10px;
+        margin-left: 40%;
+        padding: 7px;
+        background-color: white;
+        color: black;
+        box-shadow: 0px 0px 4px 1px black;
+    }
+
+    input[type="submit"]:hover {
+        background-color: rgb(0, 141, 141);
+        color: white;
+        box-shadow: none;
+        border: none;
+        padding: 9px;
+    }
+}
+
+@media only screen and (min-width:425px) {
+    .ulInHeader {
+        font-size: 16px;
+    }
+
+    li {
+        margin-left: -20px;
+        border-radius: 10px;
+        transition: all ease .5s;
+    }
+
+    li:hover {
+        background-color: snow;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    div[class="bgInHeader"] p {
+        font-size: 18px;
+    }
+
+    div[class="bgInHeader"] button {
+        font-size: 18px;
+        position: absolute;
+        bottom: 30%;
+        right: 23%;
+    }
+
+    div[class="bgInHeader"] button:hover {
+        font-size: 19px;
+    }
+
+    .h2InContent {
+        font-size: 18px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    i[class="fa"] {
+        font-size: 28px;
+        margin-right: 3px;
+    }
+
+    .iconBox {
+        width: 70px;
+        height: 60px;
+        text-align: center;
+        margin-left: 115px;
+    }
+    input[placeholder="Name"] {
+        display: inline-block;
+        margin: 5px 0px 10px 0px;
+        padding: 5px;
+        width: 90%;
+    }
+    input[placeholder="Phone Number"]{
+        display: inline-block;
+        width: 90%;
+    }
+    label[for="Name"] {
+        font-size: 14px;
+    }
+
+    label[for="PhoneNumber"] {
+        font-size: 14px;
+    }
+
+    label[for="Email"] {
+        font-size: 14px;
+    }
+
+    input[type="email"] {
+        padding: 5px;
+        width: 90%;
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+
+    textarea {
+        vertical-align: middle;
+        margin-top: 10px;
+        width: 90%;
+    }
+
+    label[for="Message"] {
+        font-size: 14px;
+    }
+
+    input[type="submit"] {
+        margin-top: 10px;
+        margin-left: 40%;
+        padding: 9px;
+        background-color: white;
+        color: black;
+        box-shadow: 0px 0px 4px 1px black;
+    }
+
+    input[type="submit"]:hover {
+        background-color: rgb(0, 141, 141);
+        color: white;
+        box-shadow: none;
+        border: none;
+        padding: 11px;
+    }
+}
+
+
+@media only screen and (min-width:525px) {
+    .ulInHeader {
+        font-size: 16px;
+    }
+
+    li {
+        margin-left: -20px;
+        border-radius: 10px;
+        transition: all ease .5s;
+    }
+
+    li:hover {
+        background-color: snow;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    div[class="bgInHeader"] p {
+        font-size: 18px;
+    }
+
+    div[class="bgInHeader"] button {
+        font-size: 18px;
+        position: absolute;
+        bottom: 30%;
+        right: 28%;
+    }
+
+    div[class="bgInHeader"] button:hover {
+        font-size: 19px;
+    }
+
+    .h2InContent {
+        font-size: 18px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    i[class="fa"] {
+        font-size: 28px;
+        margin-right: 3px;
+    }
+
+    .iconBox {
+        width: 70px;
+        height: 60px;
+        text-align: center;
+        margin-left: 35%;
+    }
+    input[placeholder="Name"] {
+        display: inline-block;
+        margin: 5px 0px 10px 0px;
+        padding: 5px;
+        width: 90%;
+    }
+    input[placeholder="Phone Number"]{
+        display: inline-block;
+        width: 90%;
+    }
+    label[for="Name"] {
+        font-size: 14px;
+    }
+
+    label[for="PhoneNumber"] {
+        font-size: 14px;
+    }
+
+    label[for="Email"] {
+        font-size: 14px;
+    }
+
+    input[type="email"] {
+        padding: 5px;
+        width: 90%;
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+
+    textarea {
+        vertical-align: middle;
+        margin-top: 10px;
+        width: 90%;
+    }
+
+    label[for="Message"] {
+        font-size: 14px;
+    }
+
+    input[type="submit"] {
+        margin-top: 10px;
+        margin-left: 40%;
+        padding: 9px;
+        background-color: white;
+        color: black;
+        box-shadow: 0px 0px 4px 1px black;
+    }
+
+    input[type="submit"]:hover {
+        background-color: rgb(0, 141, 141);
+        color: white;
+        box-shadow: none;
+        border: none;
+        padding: 11px;
+    }
+}
+
+@media only screen and (min-width:625px){
+    .ulInHeader {
+        font-size: 16px;
+    }
+
+    li {
+        margin-left: -20px;
+        border-radius: 10px;
+        transition: all ease .5s;
+    }
+
+    li:hover {
+        background-color: snow;
+    }
+
+    h1 {
+        font-size: 28px;
+    }
+
+    div[class="bgInHeader"] p {
+        font-size: 18px;
+    }
+
+    div[class="bgInHeader"] button {
+        font-size: 18px;
+        position: absolute;
+        bottom: 30%;
+        right: 33%;
+    }
+
+    div[class="bgInHeader"] button:hover {
+        font-size: 19px;
+    }
+
+    .h2InContent {
+        font-size: 18px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    i[class="fa"] {
+        font-size: 28px;
+        margin-right: 3px;
+    }
+
+    .iconBox {
+        width: 70px;
+        height: 60px;
+        text-align: center;
+        margin-left: 38%;
+    }
+    input[placeholder="Name"] {
+        display: inline-block;
+        margin: 5px 0px 10px 0px;
+        padding: 5px;
+        width: 90%;
+    }
+    input[placeholder="Phone Number"]{
+        display: inline-block;
+        width: 90%;
+    }
+    label[for="Name"] {
+        font-size: 14px;
+    }
+
+    label[for="PhoneNumber"] {
+        font-size: 14px;
+    }
+
+    label[for="Email"] {
+        font-size: 14px;
+    }
+
+    input[type="email"] {
+        padding: 5px;
+        width: 90%;
+        margin-bottom: 10px;
+        display: inline-block;
+    }
+
+    textarea {
+        vertical-align: middle;
+        margin-top: 10px;
+        width: 90%;
+    }
+
+    label[for="Message"] {
+        font-size: 14px;
+    }
+
+    input[type="submit"] {
+        margin-top: 10px;
+        margin-left: 40%;
+        padding: 9px;
+        background-color: white;
+        color: black;
+        box-shadow: 0px 0px 4px 1px black;
+    }
+
+    input[type="submit"]:hover {
+        background-color: rgb(0, 141, 141);
+        color: white;
+        box-shadow: none;
+        border: none;
+        padding: 11px;
+    }
+}
+@media only screen and (min-width:768px) {
+    .ulInHeader {
+        font-size: 18px;
+    }
+
+    li {
+        margin-left: -20px;
+        border-radius: 10px;
+        transition: all ease .5s;
+    }
+
+    li:hover {
+        background-color: snow;
+    }
+
+    h1 {
+        font-size: 32px;
+    }
+
+    div[class="bgInHeader"] p {
+        font-size: 18px;
+    }
+
+    div[class="bgInHeader"] button {
+        bottom: 28%;
+        right: 35%;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    i[class="fa"] {
+        font-size: 32px;
+    }
+
+    .iconBox {
+        margin-left: 40%;
+    }
+    input[placeholder="Name"] {
+        display: inline-block;
+        margin: 5px 0px 10px 0px;
+        padding: 8px;
+        width: 82%;
+    }
+    input[placeholder="Phone Number"]{
+        display: inline-block;
+        width: 70%;
+        padding: 8px;
+    }
+    label[for="Name"] {
+        font-size: 14px;
+    }
+
+    label[for="PhoneNumber"] {
+        font-size: 14px;
+    }
+
+    label[for="Email"] {
+        font-size: 16px;
+    }
+
+    input[type="email"] {
+        padding: 8px;
+        width: 79%;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        display: inline-block;
+    }
+
+    textarea {
+        vertical-align: middle;
+        margin-top: 10px;
+        margin-left: 5px;
+        width: 75%;
+    }
+
+    label[for="Message"] {
+        font-size: 16px;
+    }
+
+    input[type="submit"] {
+        margin-top: 10px;
+        margin-left: 45%;
+        padding: 11px;
+    }
+
+    input[type="submit"]:hover {
+        padding: 13px;
+    }
+}
+
+    @media only screen and (min-width:1024px){
+      .ulInHeader {
+        font-size: 18px;
+    }
+
+    li {
+        margin-left: -20px;
+        border-radius: 10px;
+        transition: all ease .5s;
+    }
+
+    li:hover {
+        background-color: snow;
+    }
+
+    h1 {
+        font-size: 32px;
+    }
+
+    div[class="bgInHeader"] p {
+        font-size: 18px;
+    }
+
+    div[class="bgInHeader"] button {
+        bottom: 28%;
+        right: 39%;
+    }
+
+    .container {
+        flex-direction: row;
+        justify-content: space-evenly;
+    }
+
+    i[class="fa"] {
+        font-size: 32px;
+    }
+
+    .iconBox {
+        margin-left: 30%;
+    }
+    input[placeholder="Name"] {
+        display: inline-block;
+        margin: 5px 0px 10px 0px;
+        padding: 8px;
+        width: 33%;
+    }
+    input[placeholder="Phone Number"]{
+        display: inline-block;
+        width: 33%;
+        padding: 8px;
+    }
+    label[for="Name"] {
+        font-size: 14px;
+    }
+
+    label[for="PhoneNumber"] {
+        font-size: 14px;
+    }
+
+    label[for="Email"] {
+        font-size: 16px;
+    }
+
+    input[type="email"] {
+        padding: 8px;
+        width: 79%;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        display: inline-block;
+    }
+
+    textarea {
+        vertical-align: middle;
+        margin-top: 10px;
+        margin-left: 5px;
+        width: 75%;
+    }
+
+    label[for="Message"] {
+        font-size: 16px;
+    }
+
+    input[type="submit"] {
+        margin-top: 10px;
+        margin-left: 45%;
+        padding: 11px;
+    }
+
+    input[type="submit"]:hover {
+        padding: 13px;
+    }
+}
+
+@media only screen and (min-width:1440px){
+    div[class="bgInHeader"] button {
+        bottom: 28%;
+        right: 42%;
+    }
+    input[placeholder="Name"] {
+        margin: 5px 0px 10px 0px;
+        padding: 10px;
+        width: 38%;
+    }
+    input[placeholder="Phone Number"]{
+        width: 38%;
+        margin: 5px 0px 10px 0px;
+        padding: 10px;
+    }
+    input[type="email"] {
+        padding: 10px;
+        width: 88%;
+        margin-bottom: 10px;
+        margin-left: 10px;
+        display: inline-block;
+    }
+
+    textarea {
+        vertical-align: middle;
+        margin-top: 10px;
+        margin-left: 5px;
+        width: 85%;
+    }
+    input[type="submit"] {
+        margin-top: 10px;
+        margin-left: 50%;
+        padding: 11px;
+    }
+}
